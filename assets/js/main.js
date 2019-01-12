@@ -1,12 +1,12 @@
 
-  var config = {
-    apiKey: "AIzaSyDGELUHZOCQqJUkMMG8mHmZ4vD_ZWeg30I",
-    authDomain: "do-or-dine-mf-d8bf8.firebaseapp.com",
-    databaseURL: "https://do-or-dine-mf-d8bf8.firebaseio.com",
-    projectId: "do-or-dine-mf-d8bf8",
-    storageBucket: "do-or-dine-mf-d8bf8.appspot.com",
-    messagingSenderId: "8142487662"
-  };
+      var config = {
+            apiKey: "AIzaSyC2pNVKb_umRvTZgssoUYSKhV0WxEvSsGk",
+            authDomain: "do-or-dine-mf.firebaseapp.com",
+            databaseURL: "https://do-or-dine-mf.firebaseio.com",
+            projectId: "do-or-dine-mf",
+            storageBucket: "do-or-dine-mf.appspot.com",
+            messagingSenderId: "501696051430"
+        };
 
   firebase.initializeApp(config);
 
