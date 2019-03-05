@@ -1,13 +1,14 @@
 
-var config = {
+  var config = {
     apiKey: "AIzaSyDGELUHZOCQqJUkMMG8mHmZ4vD_ZWeg30I",
     authDomain: "do-or-dine-mf-d8bf8.firebaseapp.com",
     databaseURL: "https://do-or-dine-mf-d8bf8.firebaseio.com",
     projectId: "do-or-dine-mf-d8bf8",
     storageBucket: "do-or-dine-mf-d8bf8.appspot.com",
-    messagingSenderId: "8142487662"0"
+    messagingSenderId: "8142487662"
   };
   firebase.initializeApp(config);
+
 
 var database = firebase.database();
 
